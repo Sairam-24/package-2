@@ -1,5 +1,2 @@
-Hi,
-
-I am alice!
-
 What's your name.
+How is your learning going?
